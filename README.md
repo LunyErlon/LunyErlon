@@ -50,9 +50,10 @@ Sou um **Desenvolvedor Backend & Fullstack** e fundador da **Deven**, especializ
 
 ### 📊 Estatísticas
 
-![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=LunyErlon&show_icons=true&theme=dracula&include_all_commits=true&count_private=true)
-
-![Top Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=LunyErlon&layout=compact&langs_count=7&theme=dracula)
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=LunyErlon&amp;show_icons=true&amp;theme=dracula&amp;include_all_commits=true&amp;count_private=true" height="180" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LunyErlon&amp;layout=compact&amp;langs_count=7&amp;theme=dracula" height="180" alt="Top Languages" />
+</div>
 
 ---
 
